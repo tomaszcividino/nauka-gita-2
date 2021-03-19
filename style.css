@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    margin-top: -25px;
+    color: grey;
+    font-size: 20px;
+    font-style: italic;
+}
+
+p {
+    margin-top: -12px;
+}
+
+div[class^="verse"] {
+    margin-top: 40px;
+}
